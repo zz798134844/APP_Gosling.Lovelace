@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\zz\\Desktop\\GoslingLovelaceApplicationBasic\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\zz\\Desktop\\GoslingLovelaceApplicationBasic\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "from": {
+                        "startLines": "2,3,-1",
+                        "startColumns": "4,4,-1",
+                        "startOffsets": "87,388,-1",
+                        "endColumns": "299,201,-1",
+                        "endOffsets": "382,585,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,355,557",
+                        "endColumns": "299,201,68",
+                        "endOffsets": "350,552,621"
+                    }
+                }
+            ]
+        }
+    ]
+}
